@@ -1,0 +1,7 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "Shows the 5-hour and weekly usage limits, with reset countdowns, in a band above the prompt",
+  "author": { "name": "Rajmund Kovács" },
+  "types": "./types/index.d.ts"
+}

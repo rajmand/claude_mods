@@ -1,0 +1,4 @@
+# Written by Claude Code each time it loads a plugin from disk. The types
+# include the schemas of the MCP tools connected on that machine.
+.claude-plugin/types/
+plugins/*/tsconfig.json

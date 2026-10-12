@@ -1,0 +1,12 @@
+{
+  "name": "claude-mods",
+  "description": "Plugins that change Claude Code's own interface",
+  "owner": { "name": "Rajmund Kovács" },
+  "plugins": [
+    {
+      "name": "usage-band",
+      "source": "./plugins/usage-band",
+      "description": "Shows the 5-hour and weekly usage limits, with reset countdowns, in a band above the prompt"
+    }
+  ]
+}
